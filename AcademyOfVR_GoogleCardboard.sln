@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyOfVR_GoogleCardboard", "Assembly-CSharp.csproj", "{66CA10CA-AAE1-88C0-D379-8247A456167A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademyOfVR_GoogleCardboard", "Assembly-CSharp-Editor.csproj", "{0DDBEE1D-1BB9-951D-C538-15AADC6DF876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66CA10CA-AAE1-88C0-D379-8247A456167A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CA10CA-AAE1-88C0-D379-8247A456167A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CA10CA-AAE1-88C0-D379-8247A456167A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CA10CA-AAE1-88C0-D379-8247A456167A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDBEE1D-1BB9-951D-C538-15AADC6DF876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDBEE1D-1BB9-951D-C538-15AADC6DF876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDBEE1D-1BB9-951D-C538-15AADC6DF876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDBEE1D-1BB9-951D-C538-15AADC6DF876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
